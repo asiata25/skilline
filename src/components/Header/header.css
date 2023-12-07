@@ -1,0 +1,14 @@
+header {
+  background-color: #fff2e1;
+  clip-path: circle(130% at 50% -0%);
+  overflow: hidden;
+}
+/* @media (min-width: 576px) { ... }
+
+@media (min-width: 768px) { ... } */
+
+@media (min-width: 992px) {
+  header {
+    clip-path: circle(170% at 50% -86vw);
+  }
+}

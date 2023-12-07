@@ -1,0 +1,13 @@
+/* @media (min-width: 576px) { ... }
+
+@media (min-width: 768px) { ... } */
+.testi-card {
+  transform: translateX(0) translateY(-70%);
+}
+
+@media (min-width: 992px) {
+  .testi-card {
+    transform: translateX(15%) translateY(-70%);
+    width: 450px;
+  }
+}
